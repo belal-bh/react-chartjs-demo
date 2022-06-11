@@ -1,6 +1,6 @@
-# Getting Started with Create React App
+# React Chart.js Demo
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+Live demo: [https://cosmic-macaron-945b73.netlify.app/](https://cosmic-macaron-945b73.netlify.app/)
 
 ## Available Scripts
 
